@@ -1,16 +1,14 @@
-## Hi there 👋
+# WebDroid Technologies
 
-<!--
-**webdroidtech/webdroidtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web design & development company in Indore, India, building websites for small businesses in the USA, UK, Australia and India.
 
-Here are some ideas to get you started:
+## What we do
+- [WordPress Website Development](https://webdroidtech.com/wordpress-development-services/)
+- [Shopify Store Development](https://webdroidtech.com/shopify/)
+- [Custom Website Development](https://webdroidtech.com/custom-website-development/)
+- [Digital Marketing & SEO](https://webdroidtech.com/digital-marketing-services/)
+- [AI Chatbots & AI Services](https://webdroidtech.com/ai-services/)
+- [Custom Software Development](https://webdroidtech.com/software-development/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work with us
+🌐 [webdroidtech.com](https://webdroidtech.com) · 📩 [Get a free consultation](https://webdroidtech.com/contact-us-for-it-consultancy-services-in-india/) · ⭐ 150+ five-star reviews on [Fiverr](https://www.fiverr.com/lokeshsangtani)
